@@ -1,0 +1,83 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="extra-intel-hardware_accelerated_execution_manager" />
+      <item value="ndk" />
+      <item value="extras;android;m2repository#41.0.0" />
+      <item value="extras;google;google_play_services#38" />
+      <item value="extras;google;m2repository#41" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#6.0.5" />
+      <item value="ndk-bundle#13.1.3345770" />
+      <item value="platform-tools#25.0.3" />
+      <item value="platforms;android-25#3" />
+      <item value="system-images;android-18;default;armeabi-v7a#4" />
+      <item value="system-images;android-18;default;x86#3" />
+      <item value="system-images;android-22;default;armeabi-v7a#2" />
+      <item value="system-images;android-22;google_apis;armeabi-v7a#12" />
+      <item value="system-images;android-22;google_apis;x86#12" />
+      <item value="system-images;android-22;google_apis;x86_64#12" />
+      <item value="system-images;android-23;android-tv;x86#8" />
+      <item value="system-images;android-23;google_apis;armeabi-v7a#19" />
+      <item value="system-images;android-23;google_apis;x86#19" />
+      <item value="system-images;android-23;google_apis;x86_64#19" />
+      <item value="system-images;android-24;android-tv;x86#9" />
+      <item value="tools#25.2.4" />
+      <item value="extras;android;m2repository#47.0.0" />
+      <item value="extras;google;google_play_services#40" />
+      <item value="extras;google;m2repository#51" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#6.0.6" />
+      <item value="ndk-bundle#14.1.3816874" />
+      <item value="platform-tools#25.0.6" />
+      <item value="system-images;android-22;google_apis;armeabi-v7a#13" />
+      <item value="system-images;android-22;google_apis;x86#13" />
+      <item value="system-images;android-22;google_apis;x86_64#13" />
+      <item value="system-images;android-23;android-tv;x86#9" />
+      <item value="system-images;android-23;google_apis;armeabi-v7a#20" />
+      <item value="system-images;android-23;google_apis;x86#20" />
+      <item value="system-images;android-23;google_apis;x86_64#20" />
+      <item value="system-images;android-24;android-tv;x86#10" />
+      <item value="tools#26.0.2" />
+      <item value="171.4101728" />
+      <item value="extras;google;google_play_services#43" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#6.2.0" />
+      <item value="ndk-bundle#15.2.4203891" />
+      <item value="platform-tools#26.0.0" />
+      <item value="system-images;android-22;default;x86#6" />
+      <item value="system-images;android-22;default;x86_64#6" />
+      <item value="system-images;android-22;google_apis;armeabi-v7a#16" />
+      <item value="system-images;android-22;google_apis;x86#16" />
+      <item value="system-images;android-22;google_apis;x86_64#16" />
+      <item value="system-images;android-23;android-tv;armeabi-v7a#11" />
+      <item value="system-images;android-23;android-tv;x86#11" />
+      <item value="system-images;android-23;default;x86#10" />
+      <item value="system-images;android-23;default;x86_64#10" />
+      <item value="system-images;android-23;google_apis;armeabi-v7a#23" />
+      <item value="system-images;android-23;google_apis;x86#23" />
+      <item value="system-images;android-23;google_apis;x86_64#23" />
+      <item value="system-images;android-24;android-tv;x86#12" />
+      <item value="system-images;android-24;default;x86#8" />
+      <item value="system-images;android-24;default;x86_64#8" />
+      <item value="173.4720617" />
+      <item value="193.6911.18.40.6401094" />
+      <item value="202.7660.26.42.7008469" />
+      <item value="201.8743.12.41.7042882" />
+      <item value="202.7660.26.42.7094744" />
+      <item value="202.7660.26.42.7188722" />
+      <item value="201.8743.12.41.7199119" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-201.8743.12.41.7042882" />
+    <option name="LAST_TIME_CHECKED" value="1623500400669" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

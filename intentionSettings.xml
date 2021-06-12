@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Expression conversions/Convert Groovy native map to class instances" />
+  </component>
+</application>
