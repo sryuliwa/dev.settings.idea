@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="PhoneNumberAlternateFormatsProto_375" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_255" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping pattern="PhoneNumberAlternateFormatsProto_375" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
