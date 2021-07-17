@@ -27,8 +27,6 @@
     <option name="cloneParentDir" value="D:\8.Source\Interpolators" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COMPACT_REFERENCES_VIEW" value="false" />
-    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -37,8 +35,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:\" />
   </component>
 </application>
