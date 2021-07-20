@@ -5,8 +5,13 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="..\:/Users/yuli.wang/Repo/Roblox/rblx-app-android/NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.1" />
         <entry key="LuobuApp/src/main/res/layout/activity_start_tencent.xml" value="0.26766304347826086" />
+        <entry key="LuobuApp/src/main/res/layout/activity_start_tencent_phone.xml" value="0.503125" />
+        <entry key="LuobuApp/src/main/res/layout/activity_start_tencent_phone_with_qq.xml" value="0.503125" />
         <entry key="NativeShell/src/dev/res/layout/configure_devrpc_fragment.xml" value="0.1" />
+        <entry key="NativeShell/src/dev/res/menu/configure_drawer.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.503125" />
         <entry key="NativeShell/src/main/res/layout/fragment_glview.xml" value="0.1" />
+        <entry key="NativeShell/src/main/res/layout/splash_retry_button.xml" value="0.503125" />
       </map>
     </option>
   </component>
