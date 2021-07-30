@@ -20,9 +20,11 @@
         <entry key="NativeShell/src/dev/res/layout/configure_devrpc_fragment.xml" value="0.1" />
         <entry key="NativeShell/src/dev/res/menu/configure_drawer.xml" value="0.503125" />
         <entry key="NativeShell/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="NativeShell/src/main/res/layout/activity_web.xml" value="0.39375" />
         <entry key="NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.503125" />
         <entry key="NativeShell/src/main/res/layout/fragment_glview.xml" value="0.1" />
         <entry key="NativeShell/src/main/res/layout/splash_retry_button.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout/toolbar_include.xml" value="0.39375" />
       </map>
     </option>
   </component>
