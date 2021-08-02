@@ -19,6 +19,7 @@
         <entry key="NativeShell/src/dev/res/layout/client_setting_dialog_boolean.xml" value="0.4484375" />
         <entry key="NativeShell/src/dev/res/layout/configure_devrpc_fragment.xml" value="0.1" />
         <entry key="NativeShell/src/dev/res/menu/configure_drawer.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout-sw500dp/activity_start.xml" value="0.25234375" />
         <entry key="NativeShell/src/main/res/layout/activity_sign_up.xml" value="0.1" />
         <entry key="NativeShell/src/main/res/layout/activity_web.xml" value="0.39375" />
         <entry key="NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.503125" />
