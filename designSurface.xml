@@ -14,8 +14,8 @@
         <entry key="LuobuApp/src/main/res/layout/activity_start_tencent_phone_with_qq.xml" value="0.33645833333333336" />
         <entry key="LuobuApp/src/main/res/layout/alert_dialog_terms.xml" value="0.2545289855072464" />
         <entry key="LuobuApp/src/main/res/layout/alert_dialog_terms_notice.xml" value="0.2545289855072464" />
-        <entry key="LuobuApp/src/main/res/layout/fragment_sign_up_common_card_tencent.xml" value="0.2545289855072464" />
-        <entry key="LuobuApp/src/main/res/layout/list_item_permission.xml" value="0.2545289855072464" />
+        <entry key="LuobuApp/src/main/res/layout/fragment_sign_up_common_card_tencent.xml" value="0.33645833333333336" />
+        <entry key="LuobuApp/src/main/res/layout/list_item_permission.xml" value="0.33645833333333336" />
         <entry key="NativeShell/src/dev/res/layout/client_setting_dialog_boolean.xml" value="0.4484375" />
         <entry key="NativeShell/src/dev/res/layout/configure_devrpc_fragment.xml" value="0.1" />
         <entry key="NativeShell/src/dev/res/menu/configure_drawer.xml" value="0.503125" />
