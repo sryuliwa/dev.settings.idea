@@ -1,0 +1,34 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/Users/yuli.wang/Repo/Roblox/rblx-app-android/NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.1" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_aged_rating_label.xml" value="0.31666666666666665" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_cancel_button.xml" value="0.4025641025641026" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_dialog.xml" value="0.4025641025641026" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_ok_button.xml" value="0.4025641025641026" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_qq_login.xml" value="0.4025641025641026" />
+        <entry key="LuobuApp/src/main/res/drawable/round_corner_background_wechat_login.xml" value="0.4025641025641026" />
+        <entry key="LuobuApp/src/main/res/layout/activity_start_tencent.xml" value="0.26766304347826086" />
+        <entry key="LuobuApp/src/main/res/layout/activity_start_tencent_phone.xml" value="0.503125" />
+        <entry key="LuobuApp/src/main/res/layout/activity_start_tencent_phone_with_qq.xml" value="0.33645833333333336" />
+        <entry key="LuobuApp/src/main/res/layout/alert_dialog_terms.xml" value="0.2545289855072464" />
+        <entry key="LuobuApp/src/main/res/layout/alert_dialog_terms_notice.xml" value="0.2545289855072464" />
+        <entry key="LuobuApp/src/main/res/layout/fragment_sign_up_common_card_tencent.xml" value="0.33645833333333336" />
+        <entry key="LuobuApp/src/main/res/layout/list_item_permission.xml" value="0.33645833333333336" />
+        <entry key="NativeShell/src/dev/res/layout/client_setting_dialog_boolean.xml" value="0.4484375" />
+        <entry key="NativeShell/src/dev/res/layout/configure_devrpc_fragment.xml" value="0.1" />
+        <entry key="NativeShell/src/dev/res/layout/configure_webview_activity.xml" value="0.36666666666666664" />
+        <entry key="NativeShell/src/dev/res/menu/configure_drawer.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout-sw500dp/activity_start.xml" value="0.25234375" />
+        <entry key="NativeShell/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="NativeShell/src/main/res/layout/activity_web.xml" value="0.39375" />
+        <entry key="NativeShell/src/main/res/layout/fragment_appshell.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout/fragment_glview.xml" value="0.1" />
+        <entry key="NativeShell/src/main/res/layout/splash_retry_button.xml" value="0.503125" />
+        <entry key="NativeShell/src/main/res/layout/toolbar_include.xml" value="0.39375" />
+      </map>
+    </option>
+  </component>
+</application>
