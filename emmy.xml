@@ -1,0 +1,12 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+  <component name="LuaSettings">
+    <option name="languageLevel" value="Lua 5.4" />
+    <option name="strictDoc" value="true" />
+    <option name="unknownCallable" value="false" />
+    <option name="unknownIndexable" value="false" />
+  </component>
+</application>
