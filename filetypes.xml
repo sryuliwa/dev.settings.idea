@@ -1,15 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="AddFriendsWrapper.lua" type="AUTO_DETECTED" />
-      <mapping pattern="mapStateToProps" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping pattern="AddFriendsWrapper" type="lua" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping pattern="mapStateToProps" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
