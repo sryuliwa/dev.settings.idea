@@ -1,12 +1,13 @@
 <application>
   <component name="LuaCheckSettings">
-    <option name="luaCheck" value="" />
+    <option name="luaCheck" value="/usr/local/bin/luacheck" />
     <option name="luaCheckArgs" value="" />
   </component>
   <component name="LuaSettings">
-    <option name="languageLevel" value="Lua 5.4" />
+    <option name="enableGeneric" value="true" />
+    <option name="enforceTypeSafety" value="true" />
+    <option name="languageLevel" value="Lua 5.1" />
+    <option name="nilStrict" value="true" />
     <option name="strictDoc" value="true" />
-    <option name="unknownCallable" value="false" />
-    <option name="unknownIndexable" value="false" />
   </component>
 </application>
