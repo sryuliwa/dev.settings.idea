@@ -91,9 +91,9 @@
           <option name="ENABLE_GROOVY_HOTSWAP" value="false" />
         </configuration>
       </debugger>
-      <debugger id="ObjectiveC">
+      <debugger id="javascript">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
