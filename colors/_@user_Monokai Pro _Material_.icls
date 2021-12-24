@@ -4,7 +4,7 @@
     <property name="created">2021-09-01T16:37:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-09-01T19:22:46</property>
+    <property name="modified">2021-12-25T00:28:30</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <console-font>
@@ -52,11 +52,15 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="cc500" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="FILESTATUS_UNKNOWN" value="f59762" />
@@ -290,7 +294,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
@@ -490,7 +494,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="939293" />
@@ -845,7 +849,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
@@ -990,16 +993,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="78dce8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="ff6188" />
@@ -1016,8 +1019,8 @@
         <option name="FOREGROUND" value="ff6188" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HOCON_BOOLEAN">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
@@ -1347,7 +1350,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="403e41" />
@@ -3664,7 +3667,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="939393" />
@@ -3700,7 +3703,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="f59762" />
